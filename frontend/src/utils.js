@@ -18,4 +18,4 @@ export const handleError = (msg) => {
 };
 
 // ✅ backend base URL
-export const APIUrl = 'http://localhost:8080';
+export const APIUrl = 'https://expense-tracker-xuno.onrender.com';
